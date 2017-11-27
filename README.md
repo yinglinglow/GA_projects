@@ -1,6 +1,6 @@
 # General Assembly Projects
 
-### __Project 1: Game programming and analysis__
+### __Project 1: Pokemon game programming and analysis__
 
 Demonstrates proficiency with:
   - Command of basic Python data structures

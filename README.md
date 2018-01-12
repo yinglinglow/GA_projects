@@ -7,9 +7,18 @@ Demonstrates proficiency with:
   - Command of basic Python syntax and control flow
   - Comfort with calculating basic descriptive statistics
 
-### __Project 2: SAT and Drug  programming and analysis__
+### __Project 2: SAT and Drug programming and analysis__
 
 Demonstrates proficiency with:
-    - Analyze diverse datasets & explicitly state your assumptions.
-    - Visualize and interpret your plots using Matplotlib and Seaborn. 
-    - Form hypotheses and justify them with solid statistical testing in NumPy. 
+  - Analyze diverse datasets & explicitly state your assumptions.
+  - Visualize and interpret your plots using Matplotlib and Seaborn. 
+  - Form hypotheses and justify them with solid statistical testing in NumPy. 
+
+### __Project 3: Housing analysis__
+
+Demonstrates proficiency with:
+  - Clean, impute, explore and analyze a complex dataset & explicitly state your assumptions.
+  - Justify modeling choices and feature engineering.
+  - Plot, visualize, and interpret data logically.
+  - Clearly outline modeling strategy in response to the questions
+  - Explain results to both a technical and non-technical audience.

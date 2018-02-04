@@ -22,3 +22,12 @@ Demonstrates proficiency with:
   - Plot, visualize, and interpret data logically.
   - Clearly outline modeling strategy in response to the questions
   - Explain results to both a technical and non-technical audience.
+
+### __Project 4: Job scraping and analysis__
+
+Demonstrates proficiency with:
+  - Scrap and prepare from scratch a dataset.
+  - Clean, impute, explore and analyze the dataset (using Natural Language Processing).
+  - Plot, visualize, and interpret data logically.
+  - Clearly outline modeling strategy in response to the questions.
+  - Explain results to both a technical and non-technical audience.
